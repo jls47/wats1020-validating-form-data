@@ -4,19 +4,82 @@
    Author's custom styles
    ========================================================================== */
 
+#your-name-error{
+	background: lightblue;
+	border: 2px solid lightblue;
+	border-radius: 5px;
+	color: rgb(33, 66, 98);
+}
 
+#your-address-error{
+	background: lightblue;
+	border: 2px solid lightblue;
+	border-radius: 5px;
+	color: rgb(33, 66, 98);
+}
 
+#your-city-error{
+	background: lightblue;
+	border: 2px solid lightblue;
+	border-radius: 5px;
+	color: rgb(33, 66, 98);
+}
 
+#your-state-error{
+	background: lightblue;
+	border: 2px solid lightblue;
+	border-radius: 5px;
+	color: rgb(33, 66, 98);
+}
 
+#your-zip-error{
+	background: lightblue;
+	border: 2px solid lightblue;
+	border-radius: 5px;
+	color: rgb(33, 66, 98);
+}
 
+#card-holder-name-error{
+	background: lightblue;
+	border: 2px solid lightblue;
+	border-radius: 5px;
+	color: rgb(33, 66, 98);
+}
 
+#card-number-error{
+	background: lightblue;
+	border: 2px solid lightblue;
+	border-radius: 5px;
+	color: rgb(33, 66, 98);
+}
 
+#cvv-error{
+	background: lightblue;
+	border: 2px solid lightblue;
+	border-radius: 5px;
+	color: rgb(33, 66, 98);
+}
 
+.navbar-fixed-top{
+	background: rgb(215, 243, 215);
+	border: 2px solid rgb(215, 243, 215);
+	border-radius: 5px;
+}
 
+#header a{
+	background: rgb(129, 222, 129);
+	border: 2px solid rgb(129, 222, 129);
+	border-radius: 5px;
+	color: black;
+	
+}
 
+#content{
+	background: rgba(51, 153, 153, 0.5);
+}
 
-
-
-
+body{
+	background: rgba(63, 191, 127, 0.1);
+}
 
 
