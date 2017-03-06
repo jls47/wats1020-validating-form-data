@@ -23,7 +23,9 @@ $(document).on('ready', function(){
 				maxlength: 128,
 				//characters long, it's all good.  But more than that, it's getting a little weird.
 				required: true,
-				minlength: 2
+				minlength: 2,
+				number: false,
+				
 			},
 			"your-address": {
 				maxlength: 128,
@@ -34,7 +36,7 @@ $(document).on('ready', function(){
 			"your-city": {
 				maxlength: 128,
 				required: true,
-				minlength: 2,
+				minlength: 2
 
 			},
 			//Keeping the state names to two letters.
